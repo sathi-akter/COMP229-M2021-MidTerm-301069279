@@ -1,6 +1,6 @@
 {
   "name": "comp229-m2021-midterm",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "private": true,
   "scripts": {
     "start": "node server.js"
@@ -53,5 +53,8 @@
   "bugs": {
     "url": ""
   },
-  "homepage": ""
+  "homepage": "",
+  "engines": {
+    "node": "16.x"
+  }
 }
